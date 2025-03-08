@@ -1,0 +1,12 @@
+# Игнорировать временные файлы
+*.log
+*.tmp
+
+# Игнорировать зависимости
+/backend/*/vendor/
+/frontend/android/.gradle/
+/frontend/android/build/
+
+# Игнорировать IDE-файлы
+.idea/
+*.iml
